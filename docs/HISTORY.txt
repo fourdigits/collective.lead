@@ -1,7 +1,7 @@
 Changelog for collective.lead
 
-1.2 (unreleased)
-----------------
+1.1-npo (2014-07-16)
+--------------------
 
 - Nothing changed yet.
 
