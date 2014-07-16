@@ -1,5 +1,11 @@
 Changelog for collective.lead
 
+1.2 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
 1.1-fourdigits (2014-07-16)
 
 collective.lead - 1.1 (unreleased)
