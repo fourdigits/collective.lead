@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '1.1-npo'
+version = '1.2-npo.dev0'
 
 setup(name='collective.lead',
       version=version,
