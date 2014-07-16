@@ -1,6 +1,6 @@
 Changelog for collective.lead
 
-    (name of developer listed in brackets)
+1.1-fourdigits (2014-07-16)
 
 collective.lead - 1.1 (unreleased)
 
